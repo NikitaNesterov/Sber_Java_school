@@ -17,9 +17,9 @@
     </properties>
 
     <dependencies>
-        <dependency>
+       <dependency>
             <groupId>org.sber.java</groupId>
-            <artifactId>service</artifactId>
+            <artifactId>dao</artifactId>
             <version>1.0-SNAPSHOT</version>
             <scope>compile</scope>
         </dependency>
